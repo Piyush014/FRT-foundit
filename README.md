@@ -112,52 +112,77 @@ The purpose of this project is to provide Triveni Jewelers with a robust e-comme
 ## By following these steps, I successfully deployed the Triveni Jewelers website on Azure, leveraging various Azure services to enhance performance, security, and user engagement.
 
 # The Images of Project:
-1. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/93297962-e5cb-4704-82b8-f5b6a667d8aa)
+## 1.Home Page:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/93297962-e5cb-4704-82b8-f5b6a667d8aa)
 
 
-2. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/a638549f-ba3a-4458-bf9e-5b935a42dff6)
+## 2. Featured Categories: 
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/a638549f-ba3a-4458-bf9e-5b935a42dff6)
 
 
-3. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/20e2594b-24a2-40e2-9ae8-2cbdfd7c68d2)
+## 3. Featured Products:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/20e2594b-24a2-40e2-9ae8-2cbdfd7c68d2)
 
 
-4. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/45f48982-9a0c-416f-b0d0-3971dc860a70)
+## 4. Latest Products:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/45f48982-9a0c-416f-b0d0-3971dc860a70)
 
 
-5. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/a997c96c-abad-4019-bc9c-3ddd51e5432b)
+## 5. Exclusive Products:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/a997c96c-abad-4019-bc9c-3ddd51e5432b)
 
 
-6. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/eb205198-2384-4f42-84d3-10544d8527cf)
+## 6. Testimonials:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/eb205198-2384-4f42-84d3-10544d8527cf)
 
 
-7. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/e653014a-f694-4a10-abfe-df8c348bfc15)
+## 7. Contact Us:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/e653014a-f694-4a10-abfe-df8c348bfc15)
 
 
-8. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/90ae81d2-ad8b-4526-870f-796f27eff398)
+## 8. Payment Methods:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/90ae81d2-ad8b-4526-870f-796f27eff398)
 
 
-9. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/8c8c1607-75e2-40ae-8e08-68384bdf35f9)
+## 9. Product Details:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/8c8c1607-75e2-40ae-8e08-68384bdf35f9)
 
 
-10. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/4e426766-5fca-4a94-bc5c-8a654a9a75eb)
+## 10. Related Products:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/4e426766-5fca-4a94-bc5c-8a654a9a75eb)
 
 
-11. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/8617013e-8ea8-4b75-85e8-f3f420f73dd0)
+## 11. All Products:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/8617013e-8ea8-4b75-85e8-f3f420f73dd0)
 
 
-12. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/97286d2c-a113-4282-8fab-22575443610a)
+## 12. About Us:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/79eec0d7-e4c9-4100-b81f-ca9785863458)
 
 
-13. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/79eec0d7-e4c9-4100-b81f-ca9785863458)
+## 13. Contact Us:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/0fb88049-dafe-4895-a6aa-b61821e08b4f)
 
 
-14. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/0fb88049-dafe-4895-a6aa-b61821e08b4f)
+## 14. Login:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/b2ff1afc-ab83-4857-a4ab-11f101eae83d)
 
 
-15. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/b2ff1afc-ab83-4857-a4ab-11f101eae83d)
+## 15. Shopping Cart:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/54529aaa-5d83-4164-a779-eef484b0730a)
 
 
-16. ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/54529aaa-5d83-4164-a779-eef484b0730a)
+## 16. Storage Account:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/921ac665-9fc3-4354-af57-2ffbf966a8b4)
+
+
+## 17. Creating Storage Account:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/a7f9a79b-455e-4ecf-b05f-bfb95bed108b)
+
+
+## 18. Successful Deployment of storage account:
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/3069aaac-eb93-4337-81a7-ee5ab13f1570)
+![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/fa1cad0c-501e-46ec-a886-b561c3a72ff4)
 
 
 # Thank you Future Ready Talent - Foundit for providing this Internship Oppotunity.
