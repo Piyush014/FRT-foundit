@@ -2,6 +2,16 @@
 
 This is my Microsoft Future Ready Talent Internship Project.
 
+
+## Problem Statement:
+The jewelry industry, particularly the segment involving traditional and heritage designs, faces significant challenges in the digital age. Triveni Jewelers, a reputed name in traditional and modern jewelry, currently lacks a robust online presence, which limits their reach to potential customers who prefer online shopping due to convenience, wider selection, and the ability to compare prices and designs effortlessly. This absence of an e-commerce platform not only hinders their ability to tap into a broader market but also affects customer engagement and sales conversion rates. Developing a comprehensive e-commerce website for Triveni Jewelers presents a significant opportunity to address these challenges and transform their business model to align with contemporary market demands.
+
+### Project Description:
+
+The core idea of the project is to develop a comprehensive e-commerce website for Triveni Jewelers, aiming to solve the problem of limited market reach and enhance customer convenience. This project addresses the clear need for Triveni Jewelers to establish a robust online presence, thereby expanding their customer base, improving customer engagement, and increasing sales through a digital platform.
+
+### This project directly maps to the identified problem statement by offering a clear solution that not only addresses the current limitations but also leverages modern digital tools to create new opportunities for business growth and customer engagement.
+
 ### Industry: Lifestyle
 
 ## Project Title: FRT-Website: Triveni Jewelers E-Commerce Website
@@ -101,26 +111,6 @@ By incorporating these features and functionalities, the Triveni Jewelers e-comm
 ## IDE used: 
   - VS Code
 
-## Problem Statement:
-The jewelry industry, particularly the segment involving traditional and heritage designs, faces significant challenges in the digital age. Triveni Jewelers, a reputed name in traditional and modern jewelry, currently lacks a robust online presence, which limits their reach to potential customers who prefer online shopping due to convenience, wider selection, and the ability to compare prices and designs effortlessly. This absence of an e-commerce platform not only hinders their ability to tap into a broader market but also affects customer engagement and sales conversion rates. Developing a comprehensive e-commerce website for Triveni Jewelers presents a significant opportunity to address these challenges and transform their business model to align with contemporary market demands.
-
-### Project Description:
-
-The core idea of the project is to develop a comprehensive e-commerce website for Triveni Jewelers, aiming to solve the problem of limited market reach and enhance customer convenience. This project addresses the clear need for Triveni Jewelers to establish a robust online presence, thereby expanding their customer base, improving customer engagement, and increasing sales through a digital platform.
-
-## Problem Statement:
-Triveni Jewelers currently lacks an online platform, which limits their ability to reach potential customers who prefer online shopping. This absence restricts their market to local regions, reduces customer convenience, and puts them at a competitive disadvantage compared to other jewelers with a strong online presence.
-
-## Solution:
-The project proposes to create an e-commerce website that will:
-
- - Expand Market Reach: By creating an online store, Triveni Jewelers can reach a national and international audience, significantly increasing their customer base.
- - Enhance Customer Convenience: The website will offer customers the convenience of browsing and purchasing jewelry from anywhere at any time, featuring a user-friendly interface, detailed product descriptions, and high-quality images.
- - Improve Competitive Position: An online presence will enable Triveni Jewelers to compete effectively with other jewelers who have already embraced digital transformation.
- - Streamline Inventory Management: The website will integrate with backend inventory management systems to provide real-time updates on product availability, ensuring efficient operations and reducing errors.
- - Boost Brand Visibility and Engagement: The website will include digital marketing tools and social media integration to enhance brand visibility, engage with customers, and build a loyal customer base. Data analytics will offer insights into customer behavior for personalized marketing strategies.
-
-### This project directly maps to the identified problem statement by offering a clear solution that not only addresses the current limitations but also leverages modern digital tools to create new opportunities for business growth and customer engagement.
 
 # Step-by-Step Procedure for Deploying the Triveni Jewelers Website on Azure:
 
