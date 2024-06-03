@@ -2,14 +2,6 @@
 
 This is my Microsoft Future Ready Talent Internship Project.
 
-## Web Technologies used: 
-  - HTML
-  - CSS
-  - PHP
-
-## IDE used: 
-  - VS Code
-
 ### Industry: Lifestyle
 
 ## Project Title: FRT-Website: Triveni Jewelers E-Commerce Website
@@ -98,6 +90,16 @@ Features and Functionalities of Triveni Jewelers
   Integration with social media platforms for broader reach and engagement.
 
 By incorporating these features and functionalities, the Triveni Jewelers e-commerce website aims to provide a seamless, engaging, and secure shopping experience for customers, while also enhancing operational efficiency and market reach for the business.
+
+# Tech Stack:
+## Web Technologies used: 
+  - Azure Hosting, AI Translate, Azure Firwall Manager
+  - HTML
+  - CSS
+  - PHP
+
+## IDE used: 
+  - VS Code
 
 ## Problem Statement:
 The jewelry industry, particularly the segment involving traditional and heritage designs, faces significant challenges in the digital age. Triveni Jewelers, a reputed name in traditional and modern jewelry, currently lacks a robust online presence, which limits their reach to potential customers who prefer online shopping due to convenience, wider selection, and the ability to compare prices and designs effortlessly. This absence of an e-commerce platform not only hinders their ability to tap into a broader market but also affects customer engagement and sales conversion rates. Developing a comprehensive e-commerce website for Triveni Jewelers presents a significant opportunity to address these challenges and transform their business model to align with contemporary market demands.
@@ -189,6 +191,7 @@ The purpose of this project is to provide Triveni Jewelers with a robust e-comme
 ## By following these steps, I successfully deployed the Triveni Jewelers website on Azure, leveraging various Azure services to enhance performance, security, and user engagement.
 
 # The Images of Project:
+
 ## 1.Home Page:
 ![image](https://github.com/Piyush014/FRT-foundit/assets/109540904/93297962-e5cb-4704-82b8-f5b6a667d8aa)
 
