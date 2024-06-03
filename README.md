@@ -10,9 +10,9 @@ Project Link: https://happy-dune-01c55a91e.5.azurestaticapps.net/
 
 Project Demo Video Link:
 
-# Azure Technologies used for the Project:
+## Azure Technologies used for the Project:
 
-## Core Azure Services:
+### Core Azure Services:
 
 Static Web Apps: Azure Static Web Apps hosts the frontend components of integrated platforms, offering scalable and reliable deployment directly from GitHub repositories. This service ensures high performance and rapid scaling for web applications, providing a seamless development and deployment experience.
 
@@ -21,12 +21,12 @@ Storage Accounts: Azure Storage Accounts offer scalable, durable, and highly ava
 Azure Firewall Manager: Azure Firewall Manager is a security management service that provides centralized security policy and route management for cloud-based security perimeters. It allows for seamless deployment and management of network security policies, ensuring comprehensive protection and scalability across all Azure resources.
 
 
-## Azure AI Services:
+### Azure AI Services:
 
 Azure AI Translator: Azure AI Translator provides advanced machine translation capabilities for various languages, enabling real-time and batch translation for applications, websites, and workflows. Azure AI Translator provides real-time translation capabilities, enabling multilingual communication and content localization through advanced machine learning models, ensuring accurate and context-aware translations for global reach.
 
 
-Features and Functionalities of Triveni Jewelers
+# Features and Functionalities of Triveni Jewelers
 
 ### 1. User-Friendly Interface:
   Intuitive navigation with a clean and modern design.
