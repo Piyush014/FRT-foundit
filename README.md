@@ -26,7 +26,7 @@ Azure Firewall Manager: Azure Firewall Manager is a security management service 
 Azure AI Translator: Azure AI Translator provides advanced machine translation capabilities for various languages, enabling real-time and batch translation for applications, websites, and workflows. Azure AI Translator provides real-time translation capabilities, enabling multilingual communication and content localization through advanced machine learning models, ensuring accurate and context-aware translations for global reach.
 
 
-# Features and Functionalities of Triveni Jewelers
+# Features and Functionalities of Triveni Jewelers:
 
 ### 1. User-Friendly Interface:
   Intuitive navigation with a clean and modern design.
@@ -119,27 +119,6 @@ The project proposes to create an e-commerce website that will:
  - Improve Competitive Position: An online presence will enable Triveni Jewelers to compete effectively with other jewelers who have already embraced digital transformation.
  - Streamline Inventory Management: The website will integrate with backend inventory management systems to provide real-time updates on product availability, ensuring efficient operations and reducing errors.
  - Boost Brand Visibility and Engagement: The website will include digital marketing tools and social media integration to enhance brand visibility, engage with customers, and build a loyal customer base. Data analytics will offer insights into customer behavior for personalized marketing strategies.
-
-## Key Features:
-
-### User Interface and Experience (UI/UX):
- - A modern, intuitive design reflecting the brand’s identity.
- - Seamless navigation and a user-friendly shopping experience.
-
-### Product Catalogue:
- - High-quality images and detailed descriptions of jewelry.
- - Advanced search and filter options to help customers find products easily.
-
-### Shopping Cart and Checkout:
- - A secure and straightforward process for adding items to the cart and completing purchases.
- - Support for various payment methods, ensuring a smooth and secure transaction process.
-
-### Customer Accounts:
- - Features for customer registration, order tracking, and wishlists.
- - Personalized recommendations based on browsing and purchase history.
-
-## Project’s Purpose and Functionality:
-The purpose of this project is to provide Triveni Jewelers with a robust e-commerce platform that addresses the current limitations of their market reach and customer engagement. By implementing this solution, Triveni Jewelers will be able to tap into the growing trend of online shopping, offering their exquisite jewelry to a global audience. The website’s functionality will ensure a seamless and secure shopping experience, thereby driving sales growth and enhancing customer satisfaction.
 
 ### This project directly maps to the identified problem statement by offering a clear solution that not only addresses the current limitations but also leverages modern digital tools to create new opportunities for business growth and customer engagement.
 
